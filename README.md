@@ -1,5 +1,9 @@
 # Setting Up an SSH Key for GitHub
 
+Do ont touch any thing else for now first follow this steps
+---
+
+
 ## 1. Generate an SSH Key
 Run the following command to generate a new SSH key:
 
